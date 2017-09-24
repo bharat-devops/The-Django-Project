@@ -1,0 +1,10 @@
+---
+applications:
+- name: cf-django
+  instances: 1
+  memory: 228M
+  command: null
+  services:
+  - cf-django-mysql
+  env:
+    DEBUG: 'FALSE'

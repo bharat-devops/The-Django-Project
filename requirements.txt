@@ -1,0 +1,6 @@
+Django
+WhiteNoise
+gunicorn
+dj-database-url
+newrelic
+mysqlclient
